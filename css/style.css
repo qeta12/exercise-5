@@ -1,3 +1,6 @@
+body {
+	background-color: #ECF8FE;
+}
 header a img {
 	margin: 20px 104.46px 20.45px 20px;
 	color: #FA6980;
@@ -24,4 +27,116 @@ header nav ul li a {
 }
 header nav ul li a.active {
 	color: #000000;
+}
+.container h2 {
+	margin-bottom: 40px;
+	margin-left: 140px;
+	color: black;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-weight: 700;
+} 
+.container div {
+	position: absolute;
+	width: 1160px;
+	height: 350px;
+	margin: 0 auto;
+
+}
+.container div.box-1 {
+	width: 360px;
+	height: 350px;
+	margin-left: 140px;
+	margin-right: 40px;
+	border-radius: 6px;
+	background-color: #FFFFFF;
+}
+.text {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+	margin-left: 40px;
+
+	
+}
+.icon {
+
+	margin-top: 37px;
+	margin-right: 11px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+
+}
+.container div.box-1 p {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	margin-bottom: 43px;
+	color: #A6ADB4;
+	font-size: 13px;
+}
+.container div.box-2 {
+	width: 360px;
+	height: 350px;
+	margin-left: 540px;
+	margin-right: 40px;
+	border-radius: 6px;
+	background-color: #FFFFFF;
+}
+.text {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+	margin-left: 40px;
+
+	
+}
+.icon {
+
+	margin-top: 37px;
+	margin-right: 11px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+
+}
+.container div.box-2 p {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	margin-bottom: 43px;
+	color: #A6ADB4;
+	font-size: 13px;
+}
+
+.container div.box-3 {
+	width: 360px;
+	height: 350px;
+	margin-left: 940px;
+	margin-right: 40px;
+	border-radius: 6px;
+	background-color: #FFFFFF;
+}
+.text {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+	margin-left: 40px;
+
+	
+}
+.icon {
+
+	margin-top: 37px;
+	margin-right: 11px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+
+}
+.container div.box-3 p {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	margin-bottom: 43px;
+	color: #A6ADB4;
+	font-size: 13px;
 }
