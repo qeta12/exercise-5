@@ -140,3 +140,44 @@ header nav ul li a.active {
 	color: #A6ADB4;
 	font-size: 13px;
 }
+.container-2 {
+	width: 1160px;
+	height: 977px;
+	margin-top: 449px;
+	margin-right: 140px;
+	margin-left: 140px;
+}
+.container-2 h2 {
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 60px;
+}
+
+.container-2 div div {
+	display: inline-block;
+	vertical-align: middle;
+}
+.container-2 div div.box-1 {
+	display: inline-block;
+	vertical-align: middle;
+	width: 760px;
+	height: 900px;
+
+
+}
+.container-2 div div.box-1 img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 40px;
+}
+.container-2 div div.box-2 {
+	position: absolute;
+
+}
+.container-2 div div.box-2 img {
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 100px;
+	margin-left: 40px;
+
+}
