@@ -1,0 +1,27 @@
+header a img {
+	margin: 20px 104.46px 20.45px 20px;
+	color: #FA6980;
+}
+header {
+	display: inline-block;
+	vertical-align: middle;
+}
+header nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+header nav ul li {
+	display: inline-block;
+	vertical-align: middle;
+}
+header nav ul li a {
+	margin-right: 27px;
+	margin-bottom: 21px;
+	text-transform: uppercase;
+	color: #959798;
+	font-size: 11px;
+	font-weight: 700;
+}
+header nav ul li a.active {
+	color: #000000;
+}
